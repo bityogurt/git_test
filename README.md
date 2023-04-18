@@ -1,2 +1,3 @@
 # git_test
-repo for work done in the ODIN course
+My first GitHub repo!
+Hello Odin!
